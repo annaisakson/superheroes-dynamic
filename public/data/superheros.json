@@ -1,0 +1,26 @@
+[
+  {
+    "heroName": "Dr Manhattan",
+    "firstName": "Jonathan",
+    "lastName": "Osterman",
+    "image": "../images/DrManhattan.jpg",
+    "description": "Details information is shown here... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nullam vehicula ipsum a arcu cursus. Donec ultrices tincidunt arcu non sodales neque. Dignissim diam quis enim lobortis scelerisque fermentum. Erat imperdiet sed euismod nisi porta lorem. Aliquet sagittis id consectetur purus ut faucibus. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+    "id": 0
+  },
+  {
+    "heroName": "Superman",
+    "firstName": "Clark",
+    "lastName": "Kent",
+    "image": "../images/superman.jpg",
+    "description": "Details information is shown here... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nullam vehicula ipsum a arcu cursus. Donec ultrices tincidunt arcu non sodales neque. Dignissim diam quis enim lobortis scelerisque fermentum. Erat imperdiet sed euismod nisi porta lorem. Aliquet sagittis id consectetur purus ut faucibus. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+    "id": 1
+  },
+  {
+    "heroName": "Hulk",
+    "firstName": "Bruce",
+    "lastName": "Banner",
+    "image": "../images/hulk.jpg",
+    "description": "Details information is shown here... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nullam vehicula ipsum a arcu cursus. Donec ultrices tincidunt arcu non sodales neque. Dignissim diam quis enim lobortis scelerisque fermentum. Erat imperdiet sed euismod nisi porta lorem. Aliquet sagittis id consectetur purus ut faucibus. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+    "id": 2
+  }
+]

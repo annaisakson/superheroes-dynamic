@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            A home page
+        </title>
+
+        <style>
+            body
+            {
+                background-color: #acacac;
+                background: radial-gradient(circle, #FFFFFF 0%,#acacac 100%);
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                font-family: Arial;
+            }
+
+            h1
+            {
+                color: #000000;
+            }
+
+            .container
+            {
+                width: 1000px;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+            }
+
+            .cardBig
+            {
+                background-color: #FFFFFF;
+                width: 500px;
+                height: 350px;
+                box-shadow: 1px 1px 2px #000000aa;
+                margin: 10px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding-top: 20px;
+            }
+
+            .placeholderImageBig
+            {
+                background-color: #acacac;
+                background: radial-gradient(circle, #FFFFFF 0%,#f84696 100%);
+                width: 460px;
+                height: 290px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 120px;
+                color: #FFFFFF;
+            }
+
+            .cardBig1
+            {
+                transform: rotate(-5deg);
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>
+            The about page.
+        </h1>
+
+        <div class="container">
+            <div class="cardBig cardBig1">
+                <div class="placeholderImageBig">
+                    1
+                </div>
+                A time in memory...
+            </div>
+        </div>
+    </body>
+</html>
